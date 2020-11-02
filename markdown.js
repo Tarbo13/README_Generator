@@ -63,9 +63,9 @@ ${descriptionTxt}
 
 ${instructionsTxt}
 
-<img src = "Untitled_ Nov 1, 2020 2_13 PM.gif" />
-
 ${usageTxt}
+
+<img src = "README Generator GIF.gif" />
 
 ${contributorsTxt}
 

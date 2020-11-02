@@ -1,8 +1,8 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
 
-const questions = require("./develop/utils/questions");
-const generateMarkdown = require("./develop/utils/markdown");
+const questions = require("./questions");
+const generateMarkdown = require("./markdown");
 
 inquirer
 .prompt(questions)

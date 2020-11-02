@@ -67,6 +67,10 @@ ${usageTxt}
 
 <img src = "README Generator GIF.gif" />
 
+<br>
+
+[Link to Video](https://drive.google.com/file/d/1YSvj5Nbm9iNqXlTfIEqUvyxDtzyH3yhD/view)
+
 ${contributorsTxt}
 
 ${testsTxt}
